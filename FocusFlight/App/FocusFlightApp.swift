@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct FocusFlightApp: App {
+    @StateObject private var flightHistory = FlightHistoryService()
+
     var body: some Scene {
         WindowGroup {
-            MainView()
+            RootView()
+                .environmentObject(flightHistory)
         }
     }
 }
