@@ -49,7 +49,7 @@ struct LandedView: View {
                     viewModel.completeFlight()
                     path.removeAll()
                 } label: {
-                    Text("Завершить полет")
+                    Text("End flight")
                         .font(.headline)
                         .fontWeight(.semibold)
                         .frame(maxWidth: .infinity)
