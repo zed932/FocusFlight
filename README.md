@@ -21,13 +21,11 @@
 
 ## Скриншоты
 
-Скриншоты можно добавить в папку `FocusFlight/Resources/Screenshots/` и вставить в README так:
+![Полет](FocusFlight/Resources/Screenshots/screenshot10.png)
+![Начальный экран](FocusFlight/Resources/Screenshots/screenshot3.png)
+![экран выбора](FocusFlight/Resources/Screenshots/screenshot5.png)
+![экран выбора](FocusFlight/Resources/Screenshots/screenshot7.png)
 
-```markdown
-![Описание](FocusFlight/Resources/Screenshots/имя_файла.png)
-```
-
-Либо перетащить изображение в комментарий Issue — GitHub даст готовую ссылку.
 
 ## Технологии
 
