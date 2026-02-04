@@ -21,10 +21,12 @@
 
 ## Скриншоты
 
-![Полет](FocusFlight/Resources/Screenshots/screenshot10.png)
-![Начальный экран](FocusFlight/Resources/Screenshots/screenshot3.png)
-![экран выбора](FocusFlight/Resources/Screenshots/screenshot5.png)
-![экран выбора](FocusFlight/Resources/Screenshots/screenshot7.png)
+## Скриншоты
+
+| Главный экран | Выбор направления | Экран полёта | Приземление |
+| :---: | :---: | :---: | :---: |
+| ![Начальный экран](FocusFlight/Resources/Screenshots/screenshot3.png) | ![Экран выбора](FocusFlight/Resources/Screenshots/screenshot5.png) | ![Полет](FocusFlight/Resources/Screenshots/screenshot7.png) | ![Экран выбора](FocusFlight/Resources/Screenshots/screenshot26.png) |
+| *Выбор домашнего аэропорта* | *Выбор длительности полёта* | *Карта с движущимся самолётом* | *Погода в пункте назначения* |
 
 
 ## Технологии
